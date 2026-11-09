@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-CN" data-en-title="Quiet Campus · A place for your everyday notes">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="静档 Quiet Campus：安静地记录日常、经历和项目，再通过标签找回来。浏览器本地加密版，附合成示例。">
+  <title>静档 · 给每天的想法留一个位置</title>
+  <link rel="stylesheet" href="portal.css">
+  <script src="portal.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main" data-en="Skip to content">跳到正文</a>
+  <header class="nav wrap">
+    <a class="brand" href="welcome.html"><img src="rabbit.svg" width="42" height="46" alt=""><span data-en="Quiet Campus">静档</span><small>Quiet Campus</small></a>
+    <nav aria-label="语言 / Language"><button id="language-switch" type="button">English</button></nav>
+  </header>
+  <main id="main" class="wrap">
+    <p class="local-note" id="local-only" hidden data-en="Local preview · this address only works on the computer running it. Not a public website.">本机预览 · 此地址只在运行它的电脑上有效，还不是公开网站。</p>
+    <section class="hero" aria-labelledby="hero-title">
+      <div>
+        <p class="eyebrow" data-en="A little room for yourself">给自己留一点位置</p>
+        <h1 id="hero-title" data-en="A quiet place for everyday notes.">给每天的想法，留一个安静的位置。</h1>
+        <p class="lead" data-en="A thought after class. A small milestone. A project taking shape. Write it down, then find it again when it matters.">课后冒出的念头，第一次尝试的小事，慢慢成形的项目。随手写下，也能在需要时找回来。</p>
+        <div class="actions">
+          <a class="button primary" href="./?demo=1" data-en="Explore fictional samples">先逛逛示例 <span aria-hidden="true">↗</span></a>
+          <a class="button" href="./" data-en="Open my local archive">打开我的本地档案</a>
+        </div>
+        <p class="fine" data-en="No account needed. The demo resets on refresh; your own archive stays encrypted in this browser.">无需注册。示例刷新后重置；自己的档案加密保存在当前浏览器。</p>
+        <a class="text-link" id="guide-link" href="guide.zh-CN.html" data-en="First time here? Read the short guide →">第一次来？看看使用说明 →</a>
+      </div>
+      <a class="sample-sheet" href="./?demo=1" aria-label="打开合成示例 / Explore fictional samples">
+        <div class="sheet-top"><span class="sample-label" data-en="Fictional example">虚构示例</span><span class="calendar" aria-hidden="true"><span id="calendar-month">2026 / 10</span><strong id="calendar-day">26</strong><span id="calendar-weekday">星期一</span></span></div>
+        <p class="sample-kind" data-en="JOURNAL / A SMALL MOMENT">随笔 / 今天的一小步</p>
+        <h2 data-en="A little nervous. A little braver.">有点紧张，也有一点进步。</h2>
+        <p data-en="I spoke up at the book club for the first time. Next time, I’ll write down three points beforehand.">今天第一次在读书会上发言。下次想试试提前写下三个要点。</p>
+        <div class="rabbit-line"><img src="rabbit.svg" width="82" height="90" alt="小兔阿跃 / Yue the rabbit"><p><span data-en="Yue · a local, rule-based response">阿跃 · 本机规则试讲</span><br><span data-en="A brave little step. I’m keeping a place for this page.">这一步真棒，我把这一页认真收好啦。</span></p></div>
+        <p class="sample-tag" data-en="#small-milestones">#大学生活</p>
+      </a>
+    </section>
+    <section class="rhythm" aria-labelledby="rhythm-title">
+      <h2 id="rhythm-title" data-en="Write it down. Find it again.">记录，然后再遇见。</h2>
+      <div class="three">
+        <article><span class="step" aria-hidden="true">01</span><h3 data-en="Leave a thought">轻轻留下一笔</h3><p data-en="Rich text, journals, experiences and projects share one calm place. Keep an original file or your own voice alongside the writing.">日记、经历和项目放在同一个安静的地方。富文本、原件和原声，都能陪着文字留下来。</p></article>
+        <article><span class="step" aria-hidden="true">02</span><h3 data-en="Find your way back">顺着标签找回来</h3><p data-en="Search titles, writing, tags and types together. Open the original note; search highlights never change what you saved.">标题、正文、标签和类型一起查找。点开就是原文，高亮不会改写你保存的内容。</p></article>
+        <article><span class="step" aria-hidden="true">03</span><h3 data-en="Keep a copy safe">把备份留在手里</h3><p data-en="Export a complete encrypted backup and check a restore in a separate browser. Your own copy matters more than a reassuring badge.">导出完整加密备份，在独立浏览器中验证恢复。真正留好副本，才能放心回看。</p></article>
+      </div>
+    </section>
+    <section class="boundary" aria-labelledby="boundary-title">
+      <div><p class="eyebrow" data-en="YOUR ARCHIVE, YOUR SPACE">属于自己的档案</p><h2 id="boundary-title" data-en="Quiet, with clear boundaries.">安静，也把边界说清楚。</h2></div>
+      <div><p data-en="This local edition does not include cloud sync, online AI or automatic backups. Yue uses local text rules, not a language model or therapy.">本地版不含云同步、在线 AI 或自动备份。小兔使用本机文字规则试讲，不是大模型理解或心理治疗。</p><p data-en="Your archive is tied to this browser and site origin. Clearing site data, using private mode or changing devices can lose it. Back up before moving.">档案与当前浏览器、站点来源绑定。清理数据、隐私模式或换设备可能丢失内容，请在迁移前先备份。</p><a class="text-link" href="privacy.html" data-en="Read the local data notes →">阅读本地版数据说明 →</a></div>
+    </section>
+    <section class="closing"><img src="rabbit.svg" alt="" width="52" height="58"><div><h2 data-en="No audience. No streak to keep.">没有观众，也没有打卡压力。</h2><p data-en="You don’t need a perfect day to leave a page.">不必等到完美的一天，才值得留下一页。</p></div><a class="button primary" href="./?demo=1" data-en="Try the samples">试试示例</a></section>
+  </main>
+  <footer class="wrap"><div><span data-en="Local browser edition · review candidate · not for sale yet">浏览器本地版 · 验收候选 · 尚未开售</span><p>DAwwN</p><p data-en="A support contact, release terms and public entry still need the owner’s approval.">支持联系方式、正式条款和公开入口仍待本人确认。</p></div><nav aria-label="说明 / Information"><a id="footer-guide" href="guide.zh-CN.html" data-en="Guide">使用说明</a><a href="privacy.html" data-en="Data notes">数据说明</a><a href="licenses.html" data-en="Licenses & version">许可与版本</a></nav></footer>
+</body>
+</html>

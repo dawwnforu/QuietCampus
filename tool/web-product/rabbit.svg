@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 102" fill="none">
+  <title>小兔阿跃 / Yue the rabbit</title>
+  <!-- Same original paths and palette as lib/rabbit_avatar.dart, listening pose. -->
+  <ellipse cx="50" cy="55.5" rx="46" ry="40.5" fill="#e9f1e8"/>
+  <ellipse cx="52" cy="91" rx="29" ry="5" fill="#d6e5dc"/>
+  <g stroke="#385952" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M31 47C18 27 25 3 33 4C43 4 44 32 42 47Z" fill="#fffcf2"/>
+    <path d="M54 46C53 29 56 7 65 9C70 9 75 19 72 22C69 25 65 20 65 19C68 30 67 37 65 47Z" fill="#fffcf2"/>
+    <ellipse cx="33" cy="27.5" rx="4" ry="14.5" fill="#f1c9bc" stroke="none"/>
+    <path d="M61 18Q65 25 61 37" stroke="#f1c9bc" stroke-width="6"/>
+    <path d="M28 75Q21 91 34 92H69Q82 91 71 73Z" fill="#fffcf2"/>
+    <path d="M27 72Q42 79 67 73L65 82Q43 88 27 80Z" fill="#75b4a5"/>
+    <path d="M56 80L67 78L75 90L67 89L63 94Z" fill="#75b4a5"/>
+    <rect x="19" y="37" width="62" height="42" rx="23" fill="#fffcf2"/>
+    <ellipse cx="32" cy="65.5" rx="6" ry="3.5" fill="#edc0ad" stroke="none"/>
+    <ellipse cx="70" cy="65.5" rx="6" ry="3.5" fill="#edc0ad" stroke="none"/>
+    <ellipse cx="36.5" cy="56" rx="2.5" ry="4" fill="#385952" stroke="none"/>
+    <ellipse cx="64.5" cy="56" rx="2.5" ry="4" fill="#385952" stroke="none"/>
+    <path d="M45 67Q50 72 55 67"/>
+    <path d="M48 62H54Q51 67 48 62Z" fill="#bd8877"/>
+    <rect x="26" y="82" width="23" height="17" rx="3" fill="#d8bc79"/>
+    <path d="M33 84V96M39 87H45M39 91H44"/>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+project_id = "quiet-campus"
+
+[api]
+enabled = true
+port = 54321
+schemas = ["public", "graphql_public"]
+extra_search_path = ["public", "extensions"]
+max_rows = 1000
+
+[db]
+port = 54322
+major_version = 15
+
+[studio]
+enabled = true
+port = 54323
+
+[inbucket]
+enabled = true
+port = 54324
+
+[storage]
+enabled = true
+file_size_limit = "21MiB"
+
+[auth]
+enabled = true
+site_url = "http://localhost:3000"
+enable_signup = true
+
+[auth.email]
+enable_signup = true
+enable_confirmations = true
+otp_length = 6
+otp_expiry = 600
+
+[auth.email.template.magic_link]
+subject = "静档登录验证码"
+content_path = "./supabase/templates/otp.html"
+
+[auth.email.template.confirmation]
+subject = "创建静档账号的验证码"
+content_path = "./supabase/templates/otp.html"
+
+[functions.delete-account]
+verify_jwt = false
+

@@ -1,0 +1,11 @@
+{
+  "name": "quiet-campus-backend-tests",
+  "private": true,
+  "scripts": {
+    "test": "node --test test/backend.test.mjs test/backup.test.mjs test/native-release.test.mjs test/native-site.test.mjs"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "0.5.10",
+    "libsodium-wrappers-sumo": "0.8.4"
+  }
+}

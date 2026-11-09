@@ -1,0 +1,537 @@
+﻿[
+    {
+        "Module":  "androidx.activity:activity-ktx:1.9.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.activity:activity:1.9.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.annotation:annotation-experimental:1.4.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.annotation:annotation-jvm:1.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.annotation:annotation:1.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.appcompat:appcompat-resources:1.6.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.appcompat:appcompat:1.6.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.arch.core:core-common:2.2.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.arch.core:core-runtime:2.2.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.asynclayoutinflater:asynclayoutinflater:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.browser:browser:1.9.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.collection:collection-jvm:1.4.2",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.collection:collection-ktx:1.4.2",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.collection:collection:1.4.2",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.concurrent:concurrent-futures:1.1.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.coordinatorlayout:coordinatorlayout:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.core:core-ktx:1.18.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.core:core-viewtree:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.core:core:1.18.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.cursoradapter:cursoradapter:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.customview:customview:1.1.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.datastore:datastore-android:1.2.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.datastore:datastore-core-android:1.2.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.datastore:datastore-core-okio-jvm:1.2.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.datastore:datastore-core-okio:1.2.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.datastore:datastore-core:1.2.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.datastore:datastore-preferences-android:1.2.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.datastore:datastore-preferences-core-android:1.2.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.datastore:datastore-preferences-core:1.2.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.datastore:datastore-preferences-external-protobuf:1.2.1",
+        "Poms":  1,
+        "Licenses":  "BSD-3-Clause"
+    },
+    {
+        "Module":  "androidx.datastore:datastore-preferences-proto:1.2.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.datastore:datastore-preferences:1.2.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.datastore:datastore:1.2.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.documentfile:documentfile:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.drawerlayout:drawerlayout:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.emoji2:emoji2-views-helper:1.2.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.emoji2:emoji2:1.2.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.exifinterface:exifinterface:1.4.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.fragment:fragment-ktx:1.7.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.fragment:fragment:1.7.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.interpolator:interpolator:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.legacy:legacy-support-core-ui:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.legacy:legacy-support-core-utils:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.lifecycle:lifecycle-common-java8:2.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.lifecycle:lifecycle-common-jvm:2.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.lifecycle:lifecycle-common:2.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.lifecycle:lifecycle-livedata-core-ktx:2.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.lifecycle:lifecycle-livedata-core:2.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.lifecycle:lifecycle-livedata:2.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.lifecycle:lifecycle-process:2.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.lifecycle:lifecycle-runtime-android:2.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.lifecycle:lifecycle-runtime-ktx-android:2.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.lifecycle:lifecycle-runtime-ktx:2.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.lifecycle:lifecycle-runtime:2.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.lifecycle:lifecycle-viewmodel-android:2.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.lifecycle:lifecycle-viewmodel-ktx:2.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.lifecycle:lifecycle-viewmodel-savedstate:2.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.lifecycle:lifecycle-viewmodel:2.10.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.loader:loader:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.localbroadcastmanager:localbroadcastmanager:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.media:media:1.1.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.preference:preference:1.2.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.print:print:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.profileinstaller:profileinstaller:1.4.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.recyclerview:recyclerview:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.resourceinspection:resourceinspection-annotation:1.0.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.savedstate:savedstate-android:1.4.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.savedstate:savedstate-ktx:1.4.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.savedstate:savedstate:1.4.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.slidingpanelayout:slidingpanelayout:1.2.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.startup:startup-runtime:1.1.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.swiperefreshlayout:swiperefreshlayout:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.tracing:tracing:1.2.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.transition:transition:1.4.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.vectordrawable:vectordrawable-animated:1.1.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.vectordrawable:vectordrawable:1.1.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.versionedparcelable:versionedparcelable:1.1.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.viewpager:viewpager:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.window.extensions.core:core:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.window:window-java:1.2.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "androidx.window:window:1.2.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "com.getkeepsafe.relinker:relinker:1.4.5",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "com.google.code.findbugs:jsr305:3.0.2",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "com.google.code.gson:gson:2.13.2",
+        "Poms":  1,
+        "Licenses":  "Apache-2.0"
+    },
+    {
+        "Module":  "com.google.crypto.tink:tink-android:1.23.0",
+        "Poms":  1,
+        "Licenses":  "Apache License, Version 2.0"
+    },
+    {
+        "Module":  "com.google.errorprone:error_prone_annotations:2.41.0",
+        "Poms":  1,
+        "Licenses":  "Apache 2.0"
+    },
+    {
+        "Module":  "com.google.guava:listenablefuture:1.0",
+        "Poms":  1,
+        "Licenses":  ""
+    },
+    {
+        "Module":  "com.squareup.okio:okio-jvm:3.9.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "com.squareup.okio:okio:3.9.1",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "io.flutter:arm64_v8a_debug:1.0.0-deb287481e3ce9468f3434937ced4240a70539ca",
+        "Poms":  1,
+        "Licenses":  ""
+    },
+    {
+        "Module":  "io.flutter:armeabi_v7a_debug:1.0.0-deb287481e3ce9468f3434937ced4240a70539ca",
+        "Poms":  1,
+        "Licenses":  ""
+    },
+    {
+        "Module":  "io.flutter:flutter_embedding_debug:1.0.0-deb287481e3ce9468f3434937ced4240a70539ca",
+        "Poms":  1,
+        "Licenses":  ""
+    },
+    {
+        "Module":  "io.flutter:x86_64_debug:1.0.0-deb287481e3ce9468f3434937ced4240a70539ca",
+        "Poms":  1,
+        "Licenses":  ""
+    },
+    {
+        "Module":  "org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.0",
+        "Poms":  1,
+        "Licenses":  "The Apache License, Version 2.0"
+    },
+    {
+        "Module":  "org.jetbrains.kotlin:kotlin-stdlib:2.4.0",
+        "Poms":  1,
+        "Licenses":  "Apache-2.0"
+    },
+    {
+        "Module":  "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.9.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "org.jetbrains.kotlinx:kotlinx-coroutines-bom:1.9.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.9.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.9.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "org.jetbrains.kotlinx:kotlinx-serialization-bom:1.7.3",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.7.3",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "org.jetbrains.kotlinx:kotlinx-serialization-core:1.7.3",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "org.jetbrains.kotlinx:kotlinx-serialization-json-jvm:1.7.3",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.3",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "org.jetbrains:annotations:23.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache Software License, Version 2.0"
+    },
+    {
+        "Module":  "org.jspecify:jspecify:1.0.0",
+        "Poms":  1,
+        "Licenses":  "The Apache License, Version 2.0"
+    }
+]
